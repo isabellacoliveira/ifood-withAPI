@@ -1,5 +1,4 @@
 import { Box, Button, Typography, AppBar, Container, Toolbar, Link, Paper } from "@mui/material"
-
 import { Link as RouterLink, Outlet } from 'react-router-dom'
 
 const PaginaBaseAdmin = () => {
